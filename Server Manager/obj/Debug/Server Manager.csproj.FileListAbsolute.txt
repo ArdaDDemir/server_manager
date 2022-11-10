@@ -1,0 +1,16 @@
+C:\Users\pcc\source\repos\Server Manager\Server Manager\bin\Debug\Server Manager.exe.config
+C:\Users\pcc\source\repos\Server Manager\Server Manager\bin\Debug\Server Manager.exe
+C:\Users\pcc\source\repos\Server Manager\Server Manager\bin\Debug\Server Manager.pdb
+C:\Users\pcc\source\repos\Server Manager\Server Manager\obj\Debug\Server Manager.csproj.AssemblyReference.cache
+C:\Users\pcc\source\repos\Server Manager\Server Manager\obj\Debug\Server Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\pcc\source\repos\Server Manager\Server Manager\obj\Debug\Server_Manager.Properties.Resources.resources
+C:\Users\pcc\source\repos\Server Manager\Server Manager\obj\Debug\Server Manager.csproj.GenerateResource.cache
+C:\Users\pcc\source\repos\Server Manager\Server Manager\obj\Debug\Server Manager.csproj.CoreCompileInputs.cache
+C:\Users\pcc\source\repos\Server Manager\Server Manager\obj\Debug\Server Manager.exe
+C:\Users\pcc\source\repos\Server Manager\Server Manager\obj\Debug\Server Manager.pdb
+C:\Users\pcc\source\repos\Server Manager\Server Manager\obj\Debug\Server_Manager.loading.resources
+C:\Users\pcc\source\repos\Server Manager\Server Manager\obj\Debug\Server_Manager.main.resources
+C:\Users\pcc\source\repos\Server Manager\Server Manager\obj\Debug\Server_Manager.network.resources
+C:\Users\pcc\source\repos\Server Manager\Server Manager\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\pcc\source\repos\Server Manager\Server Manager\obj\Debug\Server Manager.csproj.ResolveComReference.cache
+C:\Users\pcc\source\repos\Server Manager\Server Manager\obj\Debug\Server_Manager.settings.resources
