@@ -353,5 +353,11 @@ else
             game.Show();  // form2 göster diyoruz
             this.Close();   // bu yani form1 gizle diyoruz
         }
+
+        private void kapat_btn_Click(object sender, EventArgs e)
+        {
+            Environment.Exit(0);
+
+        }
     }
 }
