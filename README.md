@@ -30,13 +30,13 @@ Tek tıkla port açma, program yükleme ve şifre değiştirme tek uygulamada.
 **Ayarlar Sayfası**
 
 <p align="left">
-  <img src="hhttps://cdn.ardademir.com.tr/img/Server%20manager%20_4_.png" alt="Görsel 2" width="275" height="350">
+  <img src="hhttps://cdn.ardademir.com.tr/img/Server%20manager_4_.png" alt="Görsel 2" width="275" height="350">
 </p>
 
 
 **Oyun/Programlar Sayfası(Beta)**
 <p align="left">
-  <img src="https://cdn.ardademir.com.tr/img/Server%20manager%20_15_.png" alt="Görsel 2" width="250" height="250">
+  <img src="https://cdn.ardademir.com.tr/img/Server%20manager%20_5_.png" alt="Görsel 2" width="250" height="250">
 </p>
 
 # Kurulum Yakında
