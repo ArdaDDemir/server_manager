@@ -30,7 +30,7 @@ Tek tıkla port açma, program yükleme ve şifre değiştirme tek uygulamada.
 **Ayarlar Sayfası**
 
 <p align="left">
-  <img src="hhttps://cdn.ardademir.com.tr/img/Server%20manager_4_.png" alt="Görsel 2" width="275" height="350">
+  <img src="https://cdn.ardademir.com.tr/img/sm4.png" alt="Görsel 2" width="275" height="350">
 </p>
 
 
